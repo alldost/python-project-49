@@ -6,7 +6,7 @@ from brain_games.games_logics import game_main
 from brain_games.cli import welcome_user
 
 
-def number_generate():
+def is_even():
     ''' Генерация числа и определение его чётности '''
     generated_number = random.randint(1, 100)
     print(f'Question: {generated_number}')
@@ -19,7 +19,7 @@ def number_generate():
 def main():
     greeting()
     text_description = 'Answer "yes" if the number is even, otherwise answer "no".'
-    game_main(welcome_user(), text_description, number_generate)
+    game_main(welcome_user(), text_description, is_even)
 
 
 if __name__ == '__main__':
