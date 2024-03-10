@@ -11,5 +11,5 @@ def create_progression():
     replaced_index = random.randint(0, progression_length)
     replaced_value = progression[replaced_index]
     progression[replaced_index] = '..'
-    print('Question: ', *progression)
+    print('Question:', *progression)
     return replaced_value
