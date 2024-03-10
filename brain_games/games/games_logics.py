@@ -22,5 +22,4 @@ def game_main(name, text_description, right_answer):
         else:
             print(f"Let's try again, {name}!")
             return
-    if i == 3:
-        print(f'Congratulations, {name}!')
+    print(f'Congratulations, {name}!')
