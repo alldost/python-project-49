@@ -8,7 +8,8 @@ def is_answer_correct(right_answer):
         print('Correct!')
         return 1
     else:
-        print(f"'{user_answer}' is wrong answer ;(. Correct answer was '{right_answer}'.")
+        wrong_text = 'is wrong answer ;(. Correct answer was'
+        print(f"'{user_answer}' {wrong_text} '{right_answer}'.")
         return 0
 
 

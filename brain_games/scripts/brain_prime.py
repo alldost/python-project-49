@@ -8,8 +8,8 @@ from brain_games.games.prime_logics import is_prime
 
 def main():
     greeting()
-    text_description = 'Answer "yes" if given number is prime. Otherwise answer "no".'
-    game_main(welcome_user(), text_description, is_prime)
+    text = 'Answer "yes" if given number is prime. Otherwise answer "no".'
+    game_main(welcome_user(), text, is_prime)
 
 
 if __name__ == '__main__':

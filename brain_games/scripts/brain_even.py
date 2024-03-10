@@ -8,8 +8,8 @@ from brain_games.games.even_logics import is_even
 
 def main():
     greeting()
-    text_description = 'Answer "yes" if the number is even, otherwise answer "no".'
-    game_main(welcome_user(), text_description, is_even)
+    description = 'Answer "yes" if the number is even, otherwise answer "no".'
+    game_main(welcome_user(), description, is_even)
 
 
 if __name__ == '__main__':
