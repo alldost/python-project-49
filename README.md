@@ -38,7 +38,7 @@
 
 1. "Проверка на четность":
 
-https://asciinema.org/a/GUX57w2exnhHn3IwucJa1HtoE
+[![asciicast](https://asciinema.org/a/GUX57w2exnhHn3IwucJa1HtoE.svg)](https://asciinema.org/a/GUX57w2exnhHn3IwucJa1HtoE)
 
 2. "Калькулятор":
 
