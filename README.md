@@ -42,16 +42,16 @@
 
 2. "Калькулятор":
 
-[brain-calc](https://asciinema.org/a/4Yd587oZw9oYQdA6WKyrnzlTI)
+[![asciicast](https://asciinema.org/a/4Yd587oZw9oYQdA6WKyrnzlTI.svg)](https://asciinema.org/a/4Yd587oZw9oYQdA6WKyrnzlTI)
 
 3. "НОД"
 
-[brain-gcd](https://asciinema.org/a/uQGcIzjq0bEcmSYsb3njppWvT)
+[![asciicast](https://asciinema.org/a/uQGcIzjq0bEcmSYsb3njppWvT.svg)](https://asciinema.org/a/uQGcIzjq0bEcmSYsb3njppWvT)
 
 4. "Арифметическая прогрессия":
 
-[brain-progression](https://asciinema.org/a/6fZPR1C77M22u9JoAN99UunB0)
+[![asciicast](https://asciinema.org/a/6fZPR1C77M22u9JoAN99UunB0.svg)](https://asciinema.org/a/6fZPR1C77M22u9JoAN99UunB0)
 
 5. "Простое ли число?":
 
-[brain-prime](https://asciinema.org/a/O3MGcse9ba2Zv5ITkhUd14mMC)
+[![asciicast](https://asciinema.org/a/O3MGcse9ba2Zv5ITkhUd14mMC.svg)](https://asciinema.org/a/O3MGcse9ba2Zv5ITkhUd14mMC)
