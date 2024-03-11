@@ -38,7 +38,7 @@
 
 1. "Проверка на четность":
 
-[brain-even](https://asciinema.org/a/GUX57w2exnhHn3IwucJa1HtoE)
+https://asciinema.org/a/GUX57w2exnhHn3IwucJa1HtoE
 
 2. "Калькулятор":
 
