@@ -1,6 +1,9 @@
 import random
 
 
+DESCRIPTION = 'What number is missing in the progression?'
+
+
 def create_progression():
     ''' Создает и выводит прогрессию, заменяя случайный элемент на .. '''
     progression_length = random.randint(5, 10)

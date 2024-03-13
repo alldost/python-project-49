@@ -1,6 +1,9 @@
 import random
 
 
+DESCRIPTION = 'Answer "yes" if the number is even, otherwise answer "no".'
+
+
 def is_even():
     ''' Генерация числа и определение его чётности '''
     generated_number = random.randint(1, 100)

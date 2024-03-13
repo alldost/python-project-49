@@ -1,6 +1,9 @@
 import random
 
 
+DESCRIPTION = 'Find the greatest common divisor of given numbers.'
+
+
 def greatest_gcd():
     ''' Генерация и вывод чисел, определение их НОД '''
     first_number = random.randint(1, 100)

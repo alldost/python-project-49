@@ -1,6 +1,9 @@
 import random
 
 
+DESCRIPTION = 'What is the result of the expression?'
+
+
 def expression_generate():
     ''' Генерирует и выводит на экран случайное математическое выражение '''
     first_number = random.randint(1, 100)
