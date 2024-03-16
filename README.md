@@ -52,6 +52,6 @@
 
 [![asciicast](https://asciinema.org/a/6fZPR1C77M22u9JoAN99UunB0.svg)](https://asciinema.org/a/6fZPR1C77M22u9JoAN99UunB0)
 
-5. "Простое ли число?":
+5. "Простое ли число?": 
 
 [![asciicast](https://asciinema.org/a/O3MGcse9ba2Zv5ITkhUd14mMC.svg)](https://asciinema.org/a/O3MGcse9ba2Zv5ITkhUd14mMC)
