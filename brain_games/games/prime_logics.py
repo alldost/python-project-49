@@ -4,13 +4,15 @@ import random
 DESCRIPTION = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 
-def is_prime():
+def ask_and_check():
     ''' Генерация, вывод и проверка числа '''
     generated_number = random.randint(1, 100)
-    print(f'Question: {generated_number}')
+    question = f'Question: {generated_number}'
     i = generated_number // 2
     while i >= 2:
         if generated_number % i == 0:
-            return 'no'
+            right_answer = 'no'
+            return question, right_answer
         i -= 1
-    return 'yes'
+    right_answer = 'yes'
+    return question, right_answer
