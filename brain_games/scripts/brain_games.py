@@ -30,3 +30,11 @@ def engine(game_module):
             print(f"Let's try again, {name}!")
             return
     print(f'Congratulations, {name}!')
+
+
+def main():
+    engine()
+
+
+if __name__ == '__main__':
+    main()
