@@ -33,7 +33,8 @@ def engine(game_module):
 
 
 def main():
-    engine()
+    greeting()
+    welcome_user()
 
 
 if __name__ == '__main__':
